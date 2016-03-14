@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_listbody.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\cart_listbody.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_1.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\header_1.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_head.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\cart_head.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listbody.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\listbody.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_1.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\activity_menu_1.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_custom.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\menu_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cart_listbody_element.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\cart_listbody_element.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_1.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\menu\\menu_1.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cart.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\menu\\cart.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about_us.xml",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\menu\\about_us.xml"
+    }
+]

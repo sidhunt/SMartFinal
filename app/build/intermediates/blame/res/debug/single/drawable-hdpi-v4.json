@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.png",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "F:\\Android\\SMart Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "F:\\Android\\SMart Final\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    }
+]
